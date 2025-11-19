@@ -7,6 +7,7 @@ Modern medical LLMs can “get the answer right” on exams, but still fail to e
 - They often lack transparent reasoning chains that clinicians can audit.  
 - Their behavior may drift from medical ethics and regulatory requirements.  
 - They are vulnerable to induction attacks (jailbreaks, harmful advice, unethical suggestions).
+![SafeMed-R1 Overview](./safemed-r1-safety-overview.png)
 
 ---
 
