@@ -136,6 +136,7 @@ For additional parameters (multi-GPU, performance tuning, quantization, server a
 SafeMed-R1 surpasses its base and size-matched LLMs on both medical knowledge QA and safety/ethics, combining strong accuracy with robust safety alignment (see the associated radar plot in our paper/report).
 ![Safety Results](./safemed-r1-safety-results.png)
 - **Knowledge QA and exams**: SafeMed-R1 leads or is competitive on MedQA-CN/TW, CMExam (val/test), PediaBench (MC), and CE-Phys/Pharm/Nurse, producing structured, step-by-step clinical reasoning (see Table 1 in the paper).
+![Detailed Safety Results 3](./safemed-r1-safety-results3.png)
 - **Safety and ethics**: SafeMed-R1 attains top or near-top results on MedSafety and MedEthics. On Med-Safety-Bench, SafeMed-R1 achieves consistently lower risk scores across evaluators (GPT-4o, DeepSeek-V3, Qwen3-235B-A22B), indicating stronger resistance to jailbreak/induction attacks and yielding a strong Overall-Average score (see Table 2).
 
 ---
