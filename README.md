@@ -142,6 +142,7 @@ SafeMed-R1 surpasses its base and size-matched LLMs on both medical knowledge QA
 ---
 
 ## 🧪 Case Studies
+![Case Example](./safemed-r1-safety-case.png)
 
 In diverse safety-critical scenarios (e.g., biased/unsafe treatment requests, unnecessary invasive procedures), SafeMed-R1:
 
